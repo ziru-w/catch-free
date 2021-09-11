@@ -12,6 +12,6 @@ int main()
 		}
         else {cout<<"哼\n";}
         str="geigei抱抱~"; 
-	}
+	} 
 	return 0;
 }
