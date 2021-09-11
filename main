@@ -1,0 +1,17 @@
+#include <iostream>
+#include <string>
+using namespace std;
+int main() 
+{
+	string str;
+	for(;;){
+		cout<<"摸鱼吗？geigei\n";
+		cin>>str;
+		if(str=="摸鱼"){
+			cout<<str<<"真爽，诶嘿！\n";
+		}
+        else {cout<<"哼\n";}
+        str="geigei抱抱~"; 
+	}
+	return 0;
+}
